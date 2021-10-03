@@ -1,4 +1,3 @@
-const { constants } = require('buffer');
 const crypto = require('crypto');
 const DB = require('./db');
 const db = new DB('contacts.json');
