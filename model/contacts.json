@@ -60,16 +60,16 @@
     "phone": "(748) 206-2688"
   },
   {
-    "id": "de4cab21-c0eb-43ac-8427-a9bef3a81d55",
+    "id": "004b8eb5-0133-4fa5-a5d4-5d0b7b3ff13b",
     "isFavorite": false,
-    "name": "Han Solo Berger",
+    "name": "Falcon Heavy",
     "email": "Donec.elementum@scelerisquescelerisquedui.net",
     "phone": "(748) 206-2688"
   },
   {
-    "id": "23b74393-7943-4842-b2f6-85a192b48bae",
+    "id": "d3888ba1-d1e5-4afc-adb3-83a486d2cc27",
     "isFavorite": true,
-    "name": "Obi Van Kenobi",
+    "name": "Falcon",
     "email": "Donec.elementum@scelerisquescelerisquedui.net",
     "phone": "(748) 206-2688"
   }
